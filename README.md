@@ -1,6 +1,8 @@
 <h1>Zadanie 1: konfiguracja oprogramowania<h1>
 <h2> Podzadanie 1: Dlaczego zdecydowałem się wziąć udział w wyzwaniu Dare IT Challenge?</h2>
+  
 ----
+  
 Po pierwsze jestem szalenie zadowolona, ze udało mi się uporać z kodem i uruchomić test!
 
 Na challenge ***DareIT*** trafiłam dzięki waszemu wydarzeniu na fb. Był to webinar z Patrycją   
