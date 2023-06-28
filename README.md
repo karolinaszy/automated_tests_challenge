@@ -20,4 +20,7 @@ prowadzony jest kurs pomoże mi w zdobyciu potrzebnych umiejętności.
 - oczywiście znaleźć pierwszą pracę w IT!
 - świetnie bawić się przy *troubleshootingu*
 
+<h2> Podzadanie 4: Test </h2>  
+"UDZIELONO ODPOWIEDZI DOBRZE NA 6 Z 14"
+
 > Karolina
