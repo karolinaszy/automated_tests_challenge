@@ -29,10 +29,6 @@ prowadzony jest kurs pomoże mi w zdobyciu potrzebnych umiejętności.
 UDZIELONO ODPOWIEDZI DOBRZE NA 6 Z 14
 
 
-
-
-
-
 # Zadanie 2: Selektory #
 
 ----
