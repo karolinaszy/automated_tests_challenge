@@ -35,7 +35,7 @@ UDZIELONO ODPOWIEDZI DOBRZE NA 6 Z 14
 
 # Zadanie 2: Selektory #
 
------
+---
 
 ----
 
