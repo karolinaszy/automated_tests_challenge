@@ -3,8 +3,6 @@
 
 ----
 
-----
-
 
 ##  Podzadanie 1: Dlaczego zdecydowałem się wziąć udział w wyzwaniu Dare IT Challenge? ##
  
@@ -34,8 +32,6 @@ UDZIELONO ODPOWIEDZI DOBRZE NA 6 Z 14
 
 
 # Zadanie 2: Selektory #
-
-----
 
 ----
 
