@@ -43,19 +43,19 @@ UDZIELONO ODPOWIEDZI DOBRZE NA 6 Z 14
 -  //*[@class="MuiButtonBase-root MuiButton-root MuiButton-contained jss5 MuiButton-containedPrimary"]   
 -  //*[contains(@class, "MuiTypography-root MuiLink-root")]   
 
-<h3> Password: </h3>
+<h3> Password input: </h3>
 
 -  //*[@id="password"]   
 -  //input[@type="password"]
 -  //*[@name="password"]
 
-<h3> Login: </h3>
+<h3> Login input: </h3>
 
 -  //*[@id="password"]
 - //*[@class="MuiInputBase-input MuiInput-input"]   
 - //*[contains(@class, "MuiInputBase-input MuiInput-input")]
 
-<h3> Sign in: </h3>
+<h3> Sign in button: </h3>
 
 - //*[@id="__next"]/form/div/div[2]/button/span[1] 
 - //span[@class="MuiButton-label"]   
@@ -68,7 +68,7 @@ UDZIELONO ODPOWIEDZI DOBRZE NA 6 Z 14
 -  //*[text()="English"]   
 -  
 
-<h3> Scouts Panel </h3>
+<h3> Scouts Panel header </h3>
 
 -  //*[@id="__next"]/form/div/div[1]/h5
 -  //*[contains(@class, "gutterBottom")]   
