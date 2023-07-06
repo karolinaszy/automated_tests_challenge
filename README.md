@@ -42,43 +42,41 @@ UDZIELONO ODPOWIEDZI DOBRZE NA 6 Z 14
 ## Podzadanie 2 ##
 
 
-<h3> Remind password: </h3>
+#### remind_password_hyperlink_xpath: ####
+ 
+- //*[text()='Remind password']    
+- //*[contains(@class, 'MuiTypography-root MuiLink-root')]   
+- //*/div[1]/a 
 
--  //*[@id="__next"]/form/div/div[1]/a    
--  //*[text()="Remind password"]   
--  //*[@class="MuiButtonBase-root MuiButton-root MuiButton-contained jss5 MuiButton-containedPrimary"]   
--  //*[contains(@class, "MuiTypography-root MuiLink-root")]   
+#### password_field_xpath: ####
 
-<h3> Password: </h3>
+- //*[@id='password']   
+- //*[@name='password']
+- //input[@type='password']
 
--  //*[@id="password"]   
--  //input[@type="password"]
--  //*[@name="password"]
+#### login_field_xpath: ####
 
-<h3> Login: </h3>
+- //*[@id='login']
+- //*[@name='login']
+- //*[@class="MuiInputBase-input MuiInput-input"]
 
--  //*[@id="password"]
-- //*[@class="MuiInputBase-input MuiInput-input"]   
-- //*[contains(@class, "MuiInputBase-input MuiInput-input")]
+#### sign_in_button_xpath: ####
 
-<h3> Sign in: </h3>
+- //*/button/span[1]  
+- //*[text()='Sign in']
+- //*[@type='submit']
 
-- //*[@id="__next"]/form/div/div[2]/button/span[1] 
-- //span[@class="MuiButton-label"]   
-- //*[text()="Sign in"]   
+#### english_language_xpath: ####
 
-<h3> English (choose language): </h3>
+- //*[text()="English"]
+- //*/form/div/div[2]/div   
+- //*[@class="MuiInputBase-root MuiInput-root MuiInput-underline jss6"]     
 
--  //*[@id="__next"]/form/div/div[2]/div   
--  //*[@class="MuiInputBase-root MuiInput-root MuiInput-underline jss6"]    
--  //*[text()="English"]   
--  
+#### scouts_panel_text_xpath: ####
 
-<h3> Scouts Panel </h3>
-
--  //*[@id="__next"]/form/div/div[1]/h5
--  //*[contains(@class, "gutterBottom")]   
 - //h5
+- //*/div/div[1]/h5
+- //*[contains(@class, "gutterBottom")]
 
 ------
 
