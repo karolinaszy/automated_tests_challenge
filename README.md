@@ -3,12 +3,9 @@
 
 -----
 
------
-
-
 ##  Podzadanie 1: Dlaczego zdecydowałem się wziąć udział w wyzwaniu Dare IT Challenge? ##
  
-<wbr> Po pierwsze jestem szalenie zadowolona, ze udało mi się uporać z kodem i uruchomić test!
+Po pierwsze jestem szalenie zadowolona, ze udało mi się uporać z kodem i uruchomić test!
 
 Na challenge ***DareIT*** trafiłam dzięki waszemu wydarzeniu na fb. Był to webinar z Patrycją   
 o pracy QA. Byłam już wtedy po krótkim 4-dniowym wprowadzjącym kursie do testowania manualnego   
@@ -28,19 +25,15 @@ prowadzony jest kurs pomoże mi w zdobyciu potrzebnych umiejętności.
 -----
 
 ## Podzadanie 4: Test ##  
+
 UDZIELONO ODPOWIEDZI DOBRZE NA 6 Z 14
-
-
 
 
 # Zadanie 2: Selektory #
 
 -----
 
------
-
 ## Podzadanie 2 ##
-
 
 #### remind_password_hyperlink_xpath: ####
  
