@@ -1,7 +1,7 @@
 
 # Zadanie 1: konfiguracja oprogramowania #
 
-----
+-----
 
 -----
 
@@ -25,7 +25,7 @@ prowadzony jest kurs pomoże mi w zdobyciu potrzebnych umiejętności.
 - oczywiście znaleźć pierwszą pracę w IT!
 - świetnie bawić się przy *troubleshootingu* <wbr>
 
-----
+-----
 
 ## Podzadanie 4: Test ##  
 UDZIELONO ODPOWIEDZI DOBRZE NA 6 Z 14
@@ -37,7 +37,7 @@ UDZIELONO ODPOWIEDZI DOBRZE NA 6 Z 14
 
 -----
 
-----
+-----
 
 ## Podzadanie 2 ##
 
@@ -78,5 +78,5 @@ UDZIELONO ODPOWIEDZI DOBRZE NA 6 Z 14
 - //*/div/div[1]/h5
 - //*[contains(@class, "gutterBottom")]
 
-------
+-----
 
