@@ -20,7 +20,7 @@ class TestLoginPage(unittest.TestCase):
         self.driver.fullscreen_window()
         self.driver.implicitly_wait(IMPLICITLY_WAIT)
 
-    def test_log_in_to_the_system(self):
+    def test_homepage_language_change(self):
         user_login = LoginPage(self.driver)
         user_login.title_of_page()
         user_login.type_in_email('user04@getnada.com')
@@ -28,7 +28,8 @@ class TestLoginPage(unittest.TestCase):
         user_login.click_sign_in_button()
         dashboard_page = Dashboard(self.driver)
         dashboard_page.title_of_page()
-        time.sleep(5)
+        dashboard_page.title_of_polish_page()
+        time.sleep(3)
 
     @classmethod
     def tearDown(self):

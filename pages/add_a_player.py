@@ -1,14 +1,14 @@
 import os
-import unittest
 import time
+import unittest
 
-from pages.login_page import LoginPage
 from selenium import webdriver
-from pages.dashboard import Dashboard
-
-from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
 from selenium.webdriver.chrome.service import Service
 
+from pages.base_page import BasePage
+from pages.dashboard import Dashboard
+from pages.login_page import LoginPage
+from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
 
 class TestAddAPlayer(unittest.TestCase):
 

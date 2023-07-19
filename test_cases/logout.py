@@ -3,6 +3,7 @@ import time
 import unittest
 
 from selenium.webdriver.chrome.service import Service
+
 from selenium import webdriver
 from pages.login_page import LoginPage
 from pages.dashboard import Dashboard
@@ -20,7 +21,7 @@ class TestLoginPage(unittest.TestCase):
         self.driver.fullscreen_window()
         self.driver.implicitly_wait(IMPLICITLY_WAIT)
 
-    def test_log_in_to_the_system(self):
+    def test_logout_from_the_system(self):
         user_login = LoginPage(self.driver)
         user_login.title_of_page()
         user_login.type_in_email('user04@getnada.com')
@@ -28,7 +29,10 @@ class TestLoginPage(unittest.TestCase):
         user_login.click_sign_in_button()
         dashboard_page = Dashboard(self.driver)
         dashboard_page.title_of_page()
-        time.sleep(5)
+        time.sleep(3)
+        user_login.click_sign_out_button()
+        time.sleep(2)
+        self.driver.save_screenshot('TC_id_01')
 
     @classmethod
     def tearDown(self):
