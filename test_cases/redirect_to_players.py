@@ -9,7 +9,7 @@ from pages.dashboard import Dashboard
 from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
 
 
-class TestLoginPage(unittest.TestCase):
+class TestRedirection(unittest.TestCase):
 
     @classmethod
     def setUp(self):
@@ -28,7 +28,7 @@ class TestLoginPage(unittest.TestCase):
         user_login.click_sign_in_button()
         dashboard_page = Dashboard(self.driver)
         dashboard_page.title_of_page()
-        dashboard_page.click_on_the_players_button
+        dashboard_page.click_on_the_players_button()
         time.sleep(3)
 
     @classmethod

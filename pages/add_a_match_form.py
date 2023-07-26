@@ -12,5 +12,3 @@ class Addingmatch(BasePage):
     rating_input_xpath = "//*/div[13]/div/div/input"
     tshirt_color_input_xpath = "//*[@name='tshirt']"
     league_input_xpath = "//*[@name='league']"
-
-    pass

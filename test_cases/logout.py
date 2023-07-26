@@ -10,7 +10,7 @@ from pages.dashboard import Dashboard
 from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
 
 
-class TestLoginPage(unittest.TestCase):
+class TestLogout(unittest.TestCase):
 
     @classmethod
     def setUp(self):
@@ -31,8 +31,8 @@ class TestLoginPage(unittest.TestCase):
         dashboard_page.title_of_page()
         time.sleep(3)
         user_login.click_sign_out_button()
+        user_login.title_of_page()
         time.sleep(2)
-        self.driver.save_screenshot('TC_id_01')
 
     @classmethod
     def tearDown(self):

@@ -7,7 +7,7 @@ class Dashboard(BasePage):
     players_xpath = "//*//ul[1]/div[2]/div[2]/span"
     polski_xpath = "//*[text()='Polski']"
     sign_out_button_xpath = "//*[text()='Sign out']"
-    scouts_panel_logo_xpath = "//*[contains(@style, 'background-image')]"
+    scouts_panel_logo_xpath = "//*[@title='Logo Scouts Panel']"
     left_panel_xpath = "//*[@id='__next']/div[1]/div/div]"
     dev_team_contact_xpath = "//*[contains(@target, '_blank')]"
     add_player_button_xpath = "//*/div[2]//div//button/span[1]"
@@ -16,6 +16,8 @@ class Dashboard(BasePage):
     activity_tab_xpath = "//*/div[3]/div[3]/div"
     activity_text_xpath = "//*[text()='Activity']"
     shortcuts_text_xpath = "//*[text()='Shortcuts']"
+    karolina_xpath = "//*[text()='Karolina Szybiak']"
+    last_created_player_xpath = "//*[@id='__next']//div/div[3]//div/a[1]/button"
 
     dashboard_url = ('https://scouts-test.futbolkolektyw.pl/en')
     expected_dashboard_title = ('Scouts panel')
@@ -33,7 +35,7 @@ class Dashboard(BasePage):
     polish_expected_title = 'Scouts panel'
 
     players_url = ('https://scouts-test.futbolkolektyw.pl/en/players')
-    players_expected_title = 'Players (4071) page 1'
+    players_expected_title = 'Players (4263) page 1'
 
     def title_of_page(self):
         self.wait_for_element_to_be_clickable(self.activity_tab_xpath)
@@ -68,4 +70,3 @@ class Dashboard(BasePage):
     def title_of_polish_page(self):
         self.click_on_the_element(self.polski_xpath)
         assert self.get_page_title(self.polish_url) == self.polish_expected_title
-

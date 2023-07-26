@@ -9,7 +9,7 @@ from pages.dashboard import Dashboard
 from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
 
 
-class TestLoginPage(unittest.TestCase):
+class TestLoginLanguageChange(unittest.TestCase):
 
     @classmethod
     def setUp(self):
