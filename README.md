@@ -1,11 +1,11 @@
 
-# Zadanie 1: konfiguracja oprogramowania #
+<h2> Task 1️⃣ Software configuration </h2>
 
 -----
 
-##  Podzadanie 1: Dlaczego zdecydowałem się wziąć udział w wyzwaniu Dare IT Challenge? ##
- 
-Po pierwsze jestem szalenie zadowolona, ze udało mi się uporać z kodem i uruchomić test!
+<h3> Subtaks 1 </h3> 
+
+Why have I decided to participate in Automted testing challenge? 
 
 Na challenge ***DareIT*** trafiłam dzięki waszemu wydarzeniu na fb. Był to webinar z Patrycją   
 o pracy QA. Byłam już wtedy po krótkim 4-dniowym wprowadzjącym kursie do testowania manualnego   
@@ -22,18 +22,11 @@ prowadzony jest kurs pomoże mi w zdobyciu potrzebnych umiejętności.
 - oczywiście znaleźć pierwszą pracę w IT!
 - świetnie bawić się przy *troubleshootingu* <wbr>
 
------
-
-## Podzadanie 4: Test ##  
-
-UDZIELONO ODPOWIEDZI DOBRZE NA 6 Z 14
-
-
-# Zadanie 2: Selektory #
+<h2> Task 2️⃣ Selectors </h2>
 
 -----
 
-## Podzadanie 2 ##
+<h3> Subtask 2 </h3>
 
 #### remind_password_hyperlink_xpath: ####
  
@@ -73,7 +66,7 @@ UDZIELONO ODPOWIEDZI DOBRZE NA 6 Z 14
 
 -----
 
-# Task 4: Refactor, debugger and test cases #
+<h2> Task 4️⃣ Refactor, debugger and test cases </h2>
 
 -----
 
