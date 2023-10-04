@@ -1,9 +1,8 @@
 
 <h2> Task 1️⃣ Software configuration </h2>
 
------
-
-<h3> Subtaks 1 </h3> 
+<details>
+<summary> <h3> Subtaks 1 </h3> </summary>
 
 Why have I decided to participate in Automted testing challenge? 
 
@@ -20,7 +19,8 @@ prowadzony jest kurs pomoże mi w zdobyciu potrzebnych umiejętności.
 - zdobyć solidne podstawy wiedzy o testowaniu automatyzującym
 - stworzyć portfolio do swojego **CV**
 - oczywiście znaleźć pierwszą pracę w IT!
-- świetnie bawić się przy *troubleshootingu* <wbr>
+- świetnie bawić się przy *troubleshootingu* <br>
+</details>
 
 <h2> Task 2️⃣ Selectors </h2>
 
