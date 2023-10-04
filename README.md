@@ -24,7 +24,6 @@ prowadzony jest kurs pomoże mi w zdobyciu potrzebnych umiejętności.
 
 <h2> Task 2️⃣ Selectors </h2>
 
------
 
 <h3> Subtask 2 </h3>
 
@@ -64,7 +63,6 @@ prowadzony jest kurs pomoże mi w zdobyciu potrzebnych umiejętności.
 `- //*/div/div[1]/h5`   
 `- //*[contains(@class, "gutterBottom")]`
 
------
 
 <h2> Task 4️⃣ Refactor, debugger and test cases </h2>
 
