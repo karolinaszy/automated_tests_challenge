@@ -1,8 +1,9 @@
 
-<h2> Task 1️⃣ Software configuration </h2>
+<details>
+<summary> <h2> Task 1️⃣ Software configuration </h2> </summary>
 
 <details>
-<summary> <h3> Subtaks 1 </h3> </summary>
+<summary> <h3> Subtask 1 </h3> </summary>
 
 Why have I decided to participate in Automted testing challenge? 
 
@@ -22,8 +23,10 @@ prowadzony jest kurs pomoże mi w zdobyciu potrzebnych umiejętności.
 - świetnie bawić się przy *troubleshootingu* <br>
 </details>
 
-<h2> Task 2️⃣ Selectors </h2>
+</details>
 
+<details>
+<summary> <h2> Task 2️⃣ Selectors </h2> </summary>
 
 <h3> Subtask 2 </h3>
 
@@ -62,6 +65,8 @@ prowadzony jest kurs pomoże mi w zdobyciu potrzebnych umiejętności.
 `- //h5`   
 `- //*/div/div[1]/h5`   
 `- //*[contains(@class, "gutterBottom")]`
+
+</details>
 
 
 <h2> Task 4️⃣ Refactor, debugger and test cases </h2>
