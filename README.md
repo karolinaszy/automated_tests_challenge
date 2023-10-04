@@ -68,12 +68,11 @@ prowadzony jest kurs pomoże mi w zdobyciu potrzebnych umiejętności.
 
 </details>
 
+<details>
+<summary> <h2> Task 4️⃣ Refactor, debugger and test cases </h2> </summary>
 
-<h2> Task 4️⃣ Refactor, debugger and test cases </h2>
-
------
-
-my google drive: https://drive.google.com/drive/folders/1987MHeKnAwviBS8oxVPAMrAryYXPj8IF   
+my google drive: https://drive.google.com/drive/folders/1987MHeKnAwviBS8oxVPAMrAryYXPj8IF    
+</details>
 
 
 `Karolina`
