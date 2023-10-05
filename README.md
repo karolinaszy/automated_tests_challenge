@@ -77,9 +77,9 @@ Tested app - [Scouts Panel](https://scouts-test.futbolkolektyw.pl/en)
 - running first tests
 - assertion e.g.: <br>
   
-def title_of_page(self):    
+`def title_of_page(self):    
 self.wait_for_element_to_be_clickable(self.activity_tab_xpath)       
-assert self.get_page_title(self.dashboard_url) == self.expected_dashboard_title
+assert self.get_page_title(self.dashboard_url) == self.expected_dashboard_title`
 
 `def title_of_polish_page(self):       
         self.click_on_the_element(self.polski_xpath)       
