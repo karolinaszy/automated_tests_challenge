@@ -8,48 +8,65 @@
  - cloning and publishing the repository
  - installing selenium and pytest
  - editing readme for the first time 🤓
+
+[quiz score:](https://getistqb.com/quiz-purpurowy/) 12/14 👌
 </details>
 
 <details>
-<summary> <h2> Task 2️⃣ Selectors </h2> </summary>
+<summary> <h2> Task 2️⃣ </h2> </summary>
 
-<h3> Subtask 2 </h3>
+<b> Selectors </b> <br>
 
-#### remind_password_hyperlink_xpath: ####
+- creating a new branch in the project
+- searching for the first selectors 🔍
+
+<details> 
+<summary> remind_password_hyperlink_xpath: </summary>
  
 `- //*[text()='Remind password']`   
 `- //*[contains(@class, 'MuiTypography-root MuiLink-root')]`   
 `- //*/div[1]/a`
+</details>
 
-#### password_field_xpath: ####
+<details> 
+<summary> password_field_xpath: </summary>
 
 `- //*[@id='password']`  
 `- //*[@name='password']`   
 `- //input[@type='password']`
+</details>
 
-#### login_field_xpath: ####
+<details> 
+<summary> login_field_xpath: </summary>
 
 `- //*[@id='login']`   
 `- //*[@name='login']`   
 `- //*[@class="MuiInputBase-input MuiInput-input"]`
+</details>
 
-#### sign_in_button_xpath: ####
+<details> 
+<summary> sign_in_button_xpath: </summary>
 
 `- //*/button/span[1]`   
 `- //*[text()='Sign in']`   
 `- //*[@type='submit']`
+</details>
 
-#### english_language_xpath: ####
+<details> 
+<summary> english_language_xpath: </summary>
 
 `- //*[text()="English"]`   
 `- //*/form/div/div[2]/div`    
-`- //*[@class="MuiInputBase-root MuiInput-root MuiInput-underline jss6"]`    
+`- //*[@class="MuiInputBase-root MuiInput-root MuiInput-underline jss6"]`
+</details>
 
-#### scouts_panel_text_xpath: ####
+<details> 
+<summary> scouts_panel_text_xpath: </summary>
 
 `- //h5`   
 `- //*/div/div[1]/h5`   
 `- //*[contains(@class, "gutterBottom")]`
+</details>
 
 </details>
 
