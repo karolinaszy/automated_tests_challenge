@@ -75,7 +75,16 @@ Tested app - [Scouts Panel](https://scouts-test.futbolkolektyw.pl/en)
 <summary> <h2> Task 3️⃣ </h2> </summary>
 
 - running first tests
-- assertion
+- assertion e.g.: <br>
+  
+`def title_of_page(self):
+        self.wait_for_element_to_be_clickable(self.activity_tab_xpath)
+        assert self.get_page_title(self.dashboard_url) == self.expected_dashboard_title`
+
+`def title_of_polish_page(self):
+        self.click_on_the_element(self.polski_xpath)
+        assert self.get_page_title(self.polish_url) == self.polish_expected_title`
+  
 </details>
 
 <details>
@@ -83,8 +92,8 @@ Tested app - [Scouts Panel](https://scouts-test.futbolkolektyw.pl/en)
 
 - refactor
 - debugger
+- [writing code based on test cases](https://github.com/karolinaszy/automated_tests_challenge/tree/main/test_cases) 
 - writing [test cases](https://drive.google.com/drive/u/1/folders/1987MHeKnAwviBS8oxVPAMrAryYXPj8IF)
-- writing code based on test cases
 - python screenshot method
 - generating a html report
 </details>
