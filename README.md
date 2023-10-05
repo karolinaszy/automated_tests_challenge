@@ -1,3 +1,7 @@
+Tested app - [Scouts Panel](https://scouts-test.futbolkolektyw.pl/en)
+
+![Screenshot 2023-10-05 at 13 34 54](https://github.com/karolinaszy/automated_tests_challenge/assets/135064013/76cdff9c-41ae-4aae-b4d8-8c8a1d4cb86a)
+
 
 <details>
 <summary> <h2> Task 1️⃣ </h2> </summary>
