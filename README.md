@@ -5,7 +5,7 @@ Tested app - [Scouts Panel](https://scouts-test.futbolkolektyw.pl/en)
 
  <b> Software configuration </b> <br>
  
- - installing and configuring: python, IDE PyCharm, Chrome webdriver, Git and Github
+ - installing and configuring: python, IDE PyCharm, Chrome webdriver, Git and Github Desktop
  - cloning and publishing the repository
  - installing selenium and pytest
  - editing readme for the first time 🤓
