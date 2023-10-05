@@ -1,28 +1,13 @@
 
 <details>
-<summary> <h2> Task 1️⃣ Software configuration </h2> </summary>
+<summary> <h2> Task 1️⃣ </h2> </summary>
 
-<details>
-<summary> <h3> Subtask 1 </h3> </summary>
-
-Why have I decided to participate in Automted testing challenge? 
-
-Na challenge ***DareIT*** trafiłam dzięki waszemu wydarzeniu na fb. Był to webinar z Patrycją   
-o pracy QA. Byłam już wtedy po krótkim 4-dniowym wprowadzjącym kursie do testowania manualnego   
-z innej platformy, jednak zdecydowanie bardziej chcę iść w stronę testów automatyzujących.   
-
-Zdecydowanie się na wzięcie udziału w waszym wyzwaniu nie było trudne. Od dawna trafnie przemawiają do   
-mnie wasze treści, głównie na *Instagramie*. Czuję też i mam nadzieję, że sposób w jaki    
-prowadzony jest kurs pomoże mi w zdobyciu potrzebnych umiejętności.
-
-***Dzięki wyzwaniu chcę:***
-
-- zdobyć solidne podstawy wiedzy o testowaniu automatyzującym
-- stworzyć portfolio do swojego **CV**
-- oczywiście znaleźć pierwszą pracę w IT!
-- świetnie bawić się przy *troubleshootingu* <br>
-</details>
-
+ <b> Software configuration </b> <br>
+ 
+ - installing and configuring: python, IDE PyCharm, Chrome webdriver, Git and Github
+ - cloning and publishing the repository
+ - installing selenium and pytest
+ - editing readme for the first time 🤓
 </details>
 
 <details>
