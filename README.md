@@ -32,41 +32,41 @@ Tested app - [Scouts Panel](https://scouts-test.futbolkolektyw.pl/en)
 <details> 
 <summary> password_field_xpath: </summary>
 
-`- //*[@id='password']`  
-`- //*[@name='password']`   
-`- //input[@type='password']`
+`//*[@id='password']`     
+`//*[@name='password']`       
+`//input[@type='password']`     
 </details>
 
 <details> 
 <summary> login_field_xpath: </summary>
 
-`- //*[@id='login']`   
-`- //*[@name='login']`   
-`- //*[@class="MuiInputBase-input MuiInput-input"]`
+`//*[@id='login']`     
+`//*[@name='login']`      
+`//*[@class="MuiInputBase-input MuiInput-input"]`     
 </details>
 
 <details> 
 <summary> sign_in_button_xpath: </summary>
 
-`- //*/button/span[1]`   
-`- //*[text()='Sign in']`   
-`- //*[@type='submit']`
+`//*/button/span[1]`      
+`//*[text()='Sign in']`     
+`//*[@type='submit']`       
 </details>
 
 <details> 
 <summary> english_language_xpath: </summary>
 
-`- //*[text()="English"]`   
-`- //*/form/div/div[2]/div`    
-`- //*[@class="MuiInputBase-root MuiInput-root MuiInput-underline jss6"]`
+`//*[text()="English"]`      
+`//*/form/div/div[2]/div`       
+`//*[@class="MuiInputBase-root MuiInput-root MuiInput-underline jss6"]`     
 </details>
 
 <details> 
 <summary> scouts_panel_text_xpath: </summary>
 
-`- //h5`   
-`- //*/div/div[1]/h5`   
-`- //*[contains(@class, "gutterBottom")]`
+`//h5`     
+`//*/div/div[1]/h5`       
+`//*[contains(@class, "gutterBottom")]`        
 </details>
 
 </details>
