@@ -24,7 +24,7 @@ Tested app - [Scouts Panel](https://scouts-test.futbolkolektyw.pl/en)
 <details> 
 <summary> remind_password_hyperlink_xpath: </summary>
  
-````- //*[text()='Remind password']``` 
+```- //*[text()='Remind password']``` 
 ```- //*[contains(@class, 'MuiTypography-root MuiLink-root')]```
 ```- //*/div[1]/a```
 </details>
